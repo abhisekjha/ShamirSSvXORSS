@@ -15,8 +15,11 @@ This project compares the performance of two secret sharing schemes:
 
 The following images show the comparison of encoding and decoding runtimes for both secret sharing schemes:
 
-### Encoding Runtime Comparison
-![Encoding Runtime Comparison](encoder.png)
+### Encoding and Decoding Runtime Comparison
+![Encoding Runtime Comparison](end.pdf)
 
-### Decoding Runtime Comparison
+### Encoding Runtime Comparison for variable INPUTS
+![Decoding Runtime Comparison](encoder.png)
+
+### Decoding Runtime Comparison for variable INPUTS
 ![Decoding Runtime Comparison](decoder.png)
