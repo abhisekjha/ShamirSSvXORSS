@@ -3,7 +3,7 @@
 This project compares the performance of two secret sharing schemes:
 
 1. **Shamir's Secret Sharing Scheme**: A cryptographic method for dividing a secret into parts, where only a subset of those parts can reconstruct the original secret.
-2. **XOR-based Secret Sharing**: A simpler, faster method for splitting a secret into multiple parts using XOR operations.
+2. **XOR-based Secret Sharing/ Multipath Secret Sharing**: A simpler, faster method for splitting a secret into multiple parts using XOR operations.
 
 ## Features
 
